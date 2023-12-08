@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mr-youbella)
 
-- 💬 Ask me about **Programming or C language or any information related to the field of programming.**
+- 💬 Ask me about **any information related to the field of programming.**
 
 - 📫 How to reach me **younesoubllal@gmail.com**
 
