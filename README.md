@@ -1,6 +1,10 @@
 <h1 align="center">Hey! 👋, I'm Younes Oubellal</h1>
-<h3 align="center">Welcome to my profile on GitHub👾</h3>
-
+<h1 align="center">
+  
+```C
+printf("Welcome to my profile on GitHub👾");
+```
+</h1>
 
 - 🔭 I’m currently working on [C Craft](https://github.com/mr-youbella/C_Craft)
 
