@@ -6,6 +6,17 @@ printf("Welcome to my profile on GitHub👾");
 ```
 </h1>
 
+<p align="center">
+	<img alt="Mr Youbella visitors" src="https://komarev.com/ghpvc/?username=mr-youbella&color=8c36db&style=flat&label=visitors" />
+	<img alt="Mr Youbella followers" src="https://img.shields.io/github/followers/mr-youbella?color=blueviolet" />
+</p>
+
+┌──┤ **WHO ME** ├─────────▰▰▰</br>
+├─▣ Software Engineer Student at 1337 Khouribga.</br>
+├─▣ From Casablanca Morocco.</br>
+├─▣ I love to dig deep into complex problems, and attempt to find the simplest yet the most effecient solution.</br>
+└───────────────────────────────▰▰▰</br>
+
 - 🔭 I’m currently working on [C Craft](https://github.com/mr-youbella/C_Craft)
 
 - 🌱 I’m currently learning **Programming and Programming Languages**
