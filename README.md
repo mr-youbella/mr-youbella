@@ -8,8 +8,6 @@ printf("Welcome to my profile on GitHub👾");
 
 <p align="center">
 	<img alt="Mr Youbella visitors" src="https://komarev.com/ghpvc/?username=mr-youbella&color=8c36db&style=flat&label=visitors" />
-	<img alt="Mr Youbella followers" src="https://img.shields.io/github/followers/mr-youbella?color=blueviolet" />
-</p>
 
 ┌──┤ **WHO ME** ├─────────▰▰▰</br>
 ├─▣ Software Engineer Student at 1337 Khouribga.</br>
@@ -39,6 +37,4 @@ printf("Welcome to my profile on GitHub👾");
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-youbella&show_icons=true&locale=en&layout=compact&theme=radical" alt="mr-youbella" /></p>
 
-<p align="right">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mr-youbella&show_icons=true&locale=en&theme=radical" alt="mr-youbella" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-youbella&theme=radical" alt="mr-youbella" /></p>
+<p align="right">&nbsp;<img src="https://github-stats-alpha.vercel.app/api?username=mr-youbella&theme=radical" alt="mr-youbella" /></p>
