@@ -25,6 +25,8 @@ printf("Welcome to my profile on GitHub👾");
 
 - 📫 How to reach me **younesoubllal@gmail.com**
 
+<img align="center" src="https://www.codewars.com/users/master_youbella/badges/large" alt="Codewars Profile Badges"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/master_youbella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X = master_youbella" height="30" width="40" /></a>
