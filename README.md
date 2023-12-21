@@ -1,10 +1,5 @@
 <h1 align="center">Hey! 👋, I'm Younes Oubellal</h1>
-<h5 align="center">
-  
-```C
-printf("Welcome to my profile on GitHub👾");
-```
-</h5>
+<h4 align="center">printf("Welcome to my profile on GitHub👾");</h4>
 
 <p align="center">
 	<img alt="Mr Youbella visitors" src="https://komarev.com/ghpvc/?username=mr-youbella&color=8c36db&style=flat&label=visitors" />
