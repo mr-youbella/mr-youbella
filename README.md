@@ -10,7 +10,7 @@
 ├─▣ I love to dig deep into complex problems, and attempt to find the simplest yet the most effecient solution.</br>
 └───────────────────────────────▰▰▰</br>
 
-- 🔭 I’m currently working on [C Craft](https://github.com/mr-youbella/C_Craft)
+- 🔭 I’m currently working on [C Craft](https://github.com/codingcraft-cc/C_Craft)
 
 - 🌱 I’m currently learning **Programming and Programming Languages**
 
