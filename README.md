@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [C Craft](https://github.com/mr-youbella/C_Craft)
 
-- 🌱 I’m currently learning **Programming and Programming Languages**
+- 🌱 I’m currently learning **Programming**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mr-youbella)
 
