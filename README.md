@@ -16,8 +16,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mr-youbella)
 
-- 💬 Ask me about **any information related to the field of programming.**
-
 - 📫 How to reach me **younesoubllal@gmail.com**
 
 <img align="center" src="https://www.codewars.com/users/master_youbella/badges/large" alt="Codewars Profile Badges"/>
