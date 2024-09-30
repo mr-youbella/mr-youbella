@@ -5,7 +5,7 @@
 	<img alt="Mr Youbella visitors" src="https://komarev.com/ghpvc/?username=mr-youbella&color=8c36db&style=flat&label=visitors" />
 
 ┌──┤ **WHOAMI** ├─────────▰▰▰</br>
-├─▣ Software Engineer Student at 1337 Khouribga.</br>
+├─▣ Software Engineer Student at 1337.</br>
 ├─▣ From Casablanca Morocco.</br>
 ├─▣ I love to dig deep into complex problems, and attempt to find the simplest yet the most effecient solution.</br>
 └───────────────────────────────▰▰▰</br>
