@@ -34,4 +34,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-youbella&show_icons=true&locale=en&layout=compact&theme=radical" alt="mr-youbella" /></p>
 
-<p align="right">&nbsp;<img src="https://github-stats-alpha.vercel.app/api?username=mr-youbella&theme=radical" alt="mr-youbella" /></p>
