@@ -1,36 +1,117 @@
-<h1 align="center">Hey! 👋, I'm Younes Oubellal</h1>
-<h4 align="center">printf("Welcome to my profile on GitHub👾");</h4>
-
+<h1 align="center">Hi 👋, I'm Younes Oubellal</h1>
 <p align="center">
-	<img alt="Mr Youbella visitors" src="https://komarev.com/ghpvc/?username=mr-youbella&color=8c36db&style=flat&label=visitors" />
-
-┌──┤ **WHOAMI** ├─────────▰▰▰</br>
-├─▣ Software Engineer Student at 1337.</br>
-├─▣ From Casablanca Morocco.</br>
-├─▣ I love to dig deep into complex problems, and attempt to find the simplest yet the most effecient solution.</br>
-└───────────────────────────────▰▰▰</br>
-
-- 🔭 I’m currently working on [C Craft](https://github.com/mr-youbella/C_Craft)
-
-- 🌱 I’m currently learning **Programming**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/mr-youbella)
-
-- 📫 How to reach me **younesoubllal@gmail.com**
-
-![Youbella's 42 stats](https://badge.mediaplus.ma/black/Youbella)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/master_youbella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X = master_youbella" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/myoubella/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin = myoubella" height="30" width="40" /></a>
-<a href="https://www.instagram.com/master_youbella/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram = master_youbella" height="30" width="40" /></a>
+  Software Engineering Student at 1337 (42 Network) <br/>
+  Passionate about building scalable applications, solving complex problems, and creating efficient software.
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-youbella&color=8c36db&style=flat&label=Profile+Views" alt="profile views" />
 </p>
 
-<h3 align="left">Skills:</h3>
-<p align="left"> 
-	<a href="https://www.gnu.org/software/bash/" target="_blank" rel="Bash"> <img src="https://automatedprogrammer.sh/wp-content/uploads/2018/05/cropped-bash-150x150.png" alt="bash" width="40" height="40"/> </a> 
-	<a href="https://www.cprogramming.com/" target="_blank" rel="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-	<a href="https://www.linux.org/" target="_blank" rel="Linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-youbella&show_icons=true&locale=en&layout=compact&theme=radical" alt="mr-youbella" /></p>
+## 🚀 About Me
+
+* 🎓 Software Engineering Student at 1337
+
+* 🇲🇦 Based in Casablanca, Morocco
+
+* 💡 Passionate about Software Architecture and Backend Development
+
+* 🔍 Always looking for the simplest and most efficient solution
+
+* 🌱 Currently learning and improving my full-stack development skills
+
+* 📫 Contact: **[younesoubllal@gmail.com](mailto:younesoubllal@gmail.com)**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+  <a href="https://x.com/master_youbella">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/myoubella/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" />
+  </a>
+
+  <a href="https://www.instagram.com/master_youbella/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" />
+  </a>
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" />
+</p>
+
+### Frontend
+
+<p>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" />
+
+</p>
+
+### Backend
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original.svg" width="45" height="45" />
+</p>
+
+### Database
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" />
+</p>
+
+### System & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="45" height="45" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-youbella&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mr-youbella&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* Build production-ready full-stack applications
+
+* Improve system design and software architecture skills
+
+* Deepen knowledge of databases and backend development
+
+* Contribute to open-source projects
+
+---
+
+<p align="center">
+	<img src="https://badge.mediaplus.ma/greenbinary/youbella" alt="youbella's 42 stats" />
+</p>
 
