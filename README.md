@@ -90,12 +90,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-youbella&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-youbella&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mr-youbella&show_icons=true&theme=tokyonight&v=2" />
+  <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mr-youbella&layout=compact&theme=tokyonight&v=2" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-youbella&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=mr-youbella&theme=tokyonight&v=2" />
 </p>
 
 ---
